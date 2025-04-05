@@ -12,7 +12,7 @@ mod-publish-plugin = "0.8.4"
 gremlin = "0.0.7"
 runTask = "2.3.1"
 
-adventure = "4.17.0"
+adventure = "4.20.0"
 cloud = "2.0.0"
 cloudMinecraft = "2.0.0-SNAPSHOT"
 cloudModded = "2.0.0-SNAPSHOT"
